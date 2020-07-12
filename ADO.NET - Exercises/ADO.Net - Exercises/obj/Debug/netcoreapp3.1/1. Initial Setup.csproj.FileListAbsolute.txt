@@ -1,0 +1,46 @@
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\1. Initial Setup.exe
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\1. Initial Setup.deps.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\1. Initial Setup.runtimeconfig.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\1. Initial Setup.runtimeconfig.dev.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\1. Initial Setup.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\1. Initial Setup.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.AssemblyInfoInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.AssemblyInfo.cs
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.genruntimeconfig.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.csprojAssemblyReference.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.csproj.CoreCompileInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\ADO.NET - Exercises\ADO.Net - Exercises\obj\Debug\netcoreapp3.1\1. Initial Setup.csproj.CopyComplete

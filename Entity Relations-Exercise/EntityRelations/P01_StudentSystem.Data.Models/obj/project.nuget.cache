@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqdm6vZ3KPB2I5TlrRX3OnvccwM/JZ6rUgqNquoMvbdtBr8OJ/XPJ9UmaUvKhnCNem1urEiXLwcgtclVTKg/cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Entity Relations-Exercise\\EntityRelations\\P01_StudentSystem.Data.Models\\P01_StudentSystem.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
