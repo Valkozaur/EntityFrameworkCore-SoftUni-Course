@@ -23,6 +23,6 @@ namespace P01_StudentSystem.Data.Models
 
         public virtual ICollection<StudentCourse> CourseEnrollments { get; set; }
 
-        public virtual ICollection<Homework> HomeworkSubmission { get; set; }
+        public virtual ICollection<Homework> HomeworkSubmissions { get; set; }
     }
 }
