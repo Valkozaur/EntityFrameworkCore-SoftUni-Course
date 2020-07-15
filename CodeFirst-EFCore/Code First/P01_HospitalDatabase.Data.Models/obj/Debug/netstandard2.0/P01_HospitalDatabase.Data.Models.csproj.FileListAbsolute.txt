@@ -1,0 +1,9 @@
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\bin\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.deps.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\bin\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\bin\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\CodeFirst-EFCore\Code First\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.csprojAssemblyReference.cache

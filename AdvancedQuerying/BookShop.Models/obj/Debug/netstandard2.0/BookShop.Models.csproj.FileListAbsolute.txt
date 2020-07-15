@@ -1,0 +1,8 @@
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\bin\Debug\netstandard2.0\BookShop.Models.deps.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\bin\Debug\netstandard2.0\BookShop.Models.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\bin\Debug\netstandard2.0\BookShop.Models.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\obj\Debug\netstandard2.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\obj\Debug\netstandard2.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\obj\Debug\netstandard2.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\obj\Debug\netstandard2.0\BookShop.Models.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\AdvancedQuerying\BookShop.Models\obj\Debug\netstandard2.0\BookShop.Models.pdb

@@ -51,6 +51,7 @@ namespace P01_StudentSystem.Data
 
                 entity
                     .Property(s => s.PhoneNumber)
+                    .HasColumnType("char")
                     .IsRequired(false)
                     .IsUnicode(false)
                     .HasMaxLength(10);
@@ -91,7 +92,7 @@ namespace P01_StudentSystem.Data
 
                 entity
                     .HasOne(sc => sc.Course)
-                    .WithMany(c => c.StudentEnrolled)
+                    .WithMany(c => c.StudentsEnrolled)
                     .HasForeignKey(sc => sc.CourseId);
             });
 
@@ -135,7 +136,7 @@ namespace P01_StudentSystem.Data
 
                 entity
                     .HasOne(h => h.Student)
-                    .WithMany(s => s.HomeworkSubmission)
+                    .WithMany(s => s.HomeworkSubmissions)
                     .HasForeignKey(h => h.StudentId);
 
                 entity
