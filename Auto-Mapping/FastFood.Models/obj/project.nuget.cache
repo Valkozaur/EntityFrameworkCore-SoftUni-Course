@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHo0I7o7rjw0PMd+ezQKgLnvYLJa4qo0Xd9vQ9OrlC5HO1pwxH8b9Zys0v1XqWRaHR8bUyUB2vpaepfTkvPqfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Auto-Mapping\\FastFood.Models\\FastFood.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
