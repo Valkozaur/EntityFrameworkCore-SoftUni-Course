@@ -1,0 +1,12 @@
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\JSON - Exercise\CarDealerSkeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
