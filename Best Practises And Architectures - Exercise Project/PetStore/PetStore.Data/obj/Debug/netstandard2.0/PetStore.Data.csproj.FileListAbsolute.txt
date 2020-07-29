@@ -1,0 +1,14 @@
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.Common.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.Models.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csprojAssemblyReference.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.AssemblyInfoInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.AssemblyInfo.cs
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.deps.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.Common.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.Models.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csproj.CopyComplete
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Best Practises And Architectures - Exercise Project\PetStore\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csproj.CoreCompileInputs.cache

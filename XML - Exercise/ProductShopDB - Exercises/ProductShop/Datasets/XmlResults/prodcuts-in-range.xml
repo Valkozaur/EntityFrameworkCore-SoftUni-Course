@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <name>Retin-A MICRO</name>
+    <price>995.98</price>
+  </Product>
+  <Product>
+    <name>Smooth texture Orange flavor</name>
+    <price>976.65</price>
+  </Product>
+  <Product>
+    <name>Megestrol Acetate</name>
+    <price>976.15</price>
+  </Product>
+  <Product>
+    <name>Dawn Ultra Antibacterial Hand</name>
+    <price>969.86</price>
+  </Product>
+  <Product>
+    <name>Clearskin</name>
+    <price>968.59</price>
+  </Product>
+  <Product>
+    <name>NEO-POLY-BAC HYDRO</name>
+    <price>967.32</price>
+  </Product>
+  <Product>
+    <name>Homeopathic Rheumatism</name>
+    <price>967.08</price>
+  </Product>
+  <Product>
+    <name>Metformin Hydrochloride</name>
+    <price>953.99</price>
+  </Product>
+  <Product>
+    <name>Glipizide and Metformin Hydrochloride</name>
+    <price>953.60</price>
+  </Product>
+  <Product>
+    <name>pain relief</name>
+    <price>938.23</price>
+  </Product>
+</Products>

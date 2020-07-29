@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrsruHLIBsxJ3bzumpoDkN3QE0A4d5ofPsxlcoWyszAQ6r/O9JA40IHlhhc6mZaMFisi2sTwxw/ew0/sNG3iFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Best Practises And Architectures - Exercise Project\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\valni\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
