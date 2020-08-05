@@ -12,6 +12,7 @@
     <ProjectReference Include="..\PetStore.Data\PetStore.Data.csproj" />
     <ProjectReference Include="..\PetStore.Services.Mapping\PetStore.Services.Mapping.csproj" />
     <ProjectReference Include="..\PetStore.Services.Models\PetStore.Services.Models.csproj" />
+    <ProjectReference Include="..\Services.GlobalMessages\Services.GlobalMessages.csproj" />
   </ItemGroup>
 
 </Project>

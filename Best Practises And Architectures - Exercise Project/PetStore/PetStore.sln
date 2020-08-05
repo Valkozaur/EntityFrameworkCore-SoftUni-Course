@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Services.Models", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Services.Mapping", "PetStore.Services.Mapping\PetStore.Services.Mapping.csproj", "{835F80E0-DED1-4041-982E-0D2C06BCD976}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.GlobalMessages", "Services.GlobalMessages\Services.GlobalMessages.csproj", "{3EABEA41-1A7D-42A5-ACBA-40110E45B904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{835F80E0-DED1-4041-982E-0D2C06BCD976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{835F80E0-DED1-4041-982E-0D2C06BCD976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{835F80E0-DED1-4041-982E-0D2C06BCD976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EABEA41-1A7D-42A5-ACBA-40110E45B904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EABEA41-1A7D-42A5-ACBA-40110E45B904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EABEA41-1A7D-42A5-ACBA-40110E45B904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EABEA41-1A7D-42A5-ACBA-40110E45B904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{28EB597A-FC19-4DF8-B5A1-4A116DF089A1} = {4F8D5508-A24E-41BD-A099-5E5B76F9F831}
 		{76B414A3-DCFA-4C9E-B5A2-527DA203361A} = {4F8D5508-A24E-41BD-A099-5E5B76F9F831}
 		{835F80E0-DED1-4041-982E-0D2C06BCD976} = {4F8D5508-A24E-41BD-A099-5E5B76F9F831}
+		{3EABEA41-1A7D-42A5-ACBA-40110E45B904} = {4F8D5508-A24E-41BD-A099-5E5B76F9F831}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A827DE54-5312-4C3A-9802-8AF3B7FEDC0F}

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -23,15 +24,7 @@ namespace PetStore.Data.Models
         public int MerchandiseTypeId { get; set; }
         public virtual MerchandiseType MerchandiseType { get; set; }
 
-        [ForeignKey(nameof(Pet))]
-        public int? PetId { get; set; }
-        public virtual Pet Pet { get; set; }
-
-        [ForeignKey(nameof(Product))]
-        public int? ProductId { get; set; }
-        public virtual Product Product { get; set; }
-
-        public bool IsBought { get; set; }
+        public int AvailableQuantity { get; set; }
 
         public string Notes { get; set; }
     }

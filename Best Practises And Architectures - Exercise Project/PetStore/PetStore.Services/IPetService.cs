@@ -7,6 +7,8 @@ namespace PetStore.Services
     {
         void AddPet(PetInputServiceModel model);
 
+        bool RemovePet(string petId);
+
         PetDetailsViewModel FindPetById(int id);
     }
 }

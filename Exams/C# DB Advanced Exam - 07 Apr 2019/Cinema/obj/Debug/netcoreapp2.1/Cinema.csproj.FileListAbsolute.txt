@@ -1,0 +1,12 @@
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\valni\Desktop\SoftUni\Repositorys\Entitiy-Framework-Core\Exams\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.genruntimeconfig.cache

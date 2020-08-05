@@ -34,7 +34,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Breed");
+                    b.ToTable("Breeds");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Client", b =>
@@ -72,7 +72,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Client");
+                    b.ToTable("Clients");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Manufacturer", b =>
@@ -90,7 +90,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Manufacturer");
+                    b.ToTable("Manufacturers");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Merchandise", b =>
@@ -98,8 +98,8 @@ namespace PetStore.Data.Migrations
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<bool>("IsBought")
-                        .HasColumnType("bit");
+                    b.Property<int>("AvailableQuantity")
+                        .HasColumnType("int");
 
                     b.Property<int>("MerchandiseTypeId")
                         .HasColumnType("int");
@@ -108,24 +108,54 @@ namespace PetStore.Data.Migrations
                         .HasColumnType("nvarchar(255)")
                         .HasMaxLength(255);
 
-                    b.Property<int?>("PetId")
-                        .HasColumnType("int");
-
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
-
-                    b.Property<int?>("ProductId")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("MerchandiseTypeId");
 
+                    b.ToTable("Merchandises");
+                });
+
+            modelBuilder.Entity("PetStore.Data.Models.MerchandisePet", b =>
+                {
+                    b.Property<int>("MerchandiseId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PetId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("MerchandiseId1")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("MerchandiseId", "PetId");
+
+                    b.HasIndex("MerchandiseId1");
+
                     b.HasIndex("PetId");
+
+                    b.ToTable("MerchandisePet");
+                });
+
+            modelBuilder.Entity("PetStore.Data.Models.MerchandiseProduct", b =>
+                {
+                    b.Property<int>("MerchandiseId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("MerchandiseId1")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("MerchandiseId", "ProductId");
+
+                    b.HasIndex("MerchandiseId1");
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("Merchandise");
+                    b.ToTable("MerchandiseProduct");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.MerchandiseType", b =>
@@ -143,7 +173,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("MerchandiseType");
+                    b.ToTable("MerchandiseTypes");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Order", b =>
@@ -163,7 +193,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("ClientId");
 
-                    b.ToTable("Order");
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.OrderMerchandise", b =>
@@ -207,7 +237,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("BreedId");
 
-                    b.ToTable("Pet");
+                    b.ToTable("Pets");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Product", b =>
@@ -230,7 +260,7 @@ namespace PetStore.Data.Migrations
 
                     b.HasIndex("ManufacturerId");
 
-                    b.ToTable("Product");
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Merchandise", b =>
@@ -240,14 +270,32 @@ namespace PetStore.Data.Migrations
                         .HasForeignKey("MerchandiseTypeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("PetStore.Data.Models.MerchandisePet", b =>
+                {
+                    b.HasOne("PetStore.Data.Models.Merchandise", "Merchandise")
+                        .WithMany("Pets")
+                        .HasForeignKey("MerchandiseId1");
 
                     b.HasOne("PetStore.Data.Models.Pet", "Pet")
                         .WithMany()
-                        .HasForeignKey("PetId");
+                        .HasForeignKey("PetId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("PetStore.Data.Models.MerchandiseProduct", b =>
+                {
+                    b.HasOne("PetStore.Data.Models.Merchandise", "Merchandise")
+                        .WithMany("Products")
+                        .HasForeignKey("MerchandiseId1");
 
                     b.HasOne("PetStore.Data.Models.Product", "Product")
                         .WithMany()
-                        .HasForeignKey("ProductId");
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("PetStore.Data.Models.Order", b =>

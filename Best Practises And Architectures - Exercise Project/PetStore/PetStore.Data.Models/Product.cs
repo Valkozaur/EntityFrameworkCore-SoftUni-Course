@@ -17,5 +17,8 @@ namespace PetStore.Data.Models
         [ForeignKey(nameof(Manufacturer))]
         public int ManufacturerId { get; set; }
         public virtual Manufacturer Manufacturer { get; set; }
+
+        public int MerchandiseId { get; set; }
+        public Merchandise Merchandise { get; set; }
     }
 }

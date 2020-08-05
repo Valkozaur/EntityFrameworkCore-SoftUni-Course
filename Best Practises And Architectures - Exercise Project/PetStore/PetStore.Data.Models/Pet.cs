@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 using PetStore.Data.Common;
@@ -20,6 +21,10 @@ namespace PetStore.Data.Models
 
         [Range(GlobalConstants.MinPetAge, GlobalConstants.MaxPetAge)]
         public int Age { get; set; }
+
+        public int MerchandiseId { get; set; }
+
+        public Merchandise Merchandise { get; set; }
 
         public bool? IsMale { get; set; }
     }

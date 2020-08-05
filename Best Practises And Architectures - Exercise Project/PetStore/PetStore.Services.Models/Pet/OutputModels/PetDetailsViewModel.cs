@@ -1,4 +1,8 @@
-﻿namespace PetStore.Services.Models.Pet.OutputModels
+﻿using AutoMapper;
+
+using PetStore.Services.Mapping;
+
+namespace PetStore.Services.Models.Pet.OutputModels
 {
     public class PetDetailsViewModel
     {

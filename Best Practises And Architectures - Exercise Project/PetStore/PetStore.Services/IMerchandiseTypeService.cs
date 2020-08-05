@@ -1,10 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PetStore.Services
+﻿namespace PetStore.Services
 {
-    class IMerchandiseTypeService
+    public interface IMerchandiseTypeService
     {
+        void CreateMerchandiseType(string name);
+
+        bool RemoveMerchandiseType(string name);
+
+        bool RemoveMerchandiseType(int id);
     }
 }

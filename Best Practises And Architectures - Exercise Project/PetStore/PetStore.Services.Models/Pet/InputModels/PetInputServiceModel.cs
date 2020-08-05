@@ -19,8 +19,10 @@ namespace PetStore.Services.Models.Pet.InputModels
         [Range(GlobalConstants.MinPetAge, GlobalConstants.MaxPetAge)]
         public int Age { get; set; }
 
-        public bool? IsMale { get; set; }
+        public string Gender { get; set; }
 
         public decimal Price { get; set; }
+
+        public string Notes { get; set; }
     }
 }

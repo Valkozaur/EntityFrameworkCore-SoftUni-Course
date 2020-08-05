@@ -2193,6 +2193,16 @@
         "runtime": {
           "bin/placeholder/PetStore.Services.Models.dll": {}
         }
+      },
+      "Services.GlobalMessages/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Services.GlobalMessages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.GlobalMessages.dll": {}
+        }
       }
     }
   },
@@ -7223,6 +7233,11 @@
       "type": "project",
       "path": "../PetStore.Services.Models/PetStore.Services.Models.csproj",
       "msbuildProject": "../PetStore.Services.Models/PetStore.Services.Models.csproj"
+    },
+    "Services.GlobalMessages/1.0.0": {
+      "type": "project",
+      "path": "../Services.GlobalMessages/Services.GlobalMessages.csproj",
+      "msbuildProject": "../Services.GlobalMessages/Services.GlobalMessages.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7231,7 +7246,8 @@
       "NETStandard.Library >= 2.0.3",
       "PetStore.Data >= 1.0.0",
       "PetStore.Services.Mapping >= 1.0.0",
-      "PetStore.Services.Models >= 1.0.0"
+      "PetStore.Services.Models >= 1.0.0",
+      "Services.GlobalMessages >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7268,6 +7284,9 @@
             },
             "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Best Practises And Architectures - Exercise Project\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
               "projectPath": "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Best Practises And Architectures - Exercise Project\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj"
+            },
+            "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Best Practises And Architectures - Exercise Project\\PetStore\\Services.GlobalMessages\\Services.GlobalMessages.csproj": {
+              "projectPath": "C:\\Users\\valni\\Desktop\\SoftUni\\Repositorys\\Entitiy-Framework-Core\\Best Practises And Architectures - Exercise Project\\PetStore\\Services.GlobalMessages\\Services.GlobalMessages.csproj"
             }
           }
         }
